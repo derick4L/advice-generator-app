@@ -52,5 +52,3 @@ I learned how to use Web Components to leverage HTML, CSS, and JavaScript while 
 
 - Website - [Derick McMillian](https://thederickmcmillian.com)
 - Frontend Mentor - [@derick4L](https://www.frontendmentor.io/profile/derick4L)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
